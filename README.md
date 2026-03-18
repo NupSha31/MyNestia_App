@@ -1,4 +1,4 @@
-# MyNestia_App
+# MyNestia App
 MyNestia is a mobile-first verification-driven platform which helps students and working professionals in the Delhi NCR area find roommates and discover housing options. The platform directly addresses a pervasive urban problem because it enables users to find secure and suitable affordable shared housing through its informal search system. Current channels: WhatsApp groups broker networks OLX listings and Facebook communities - lack identity verification, compatibility algorithms and structured communication, leaving users exposed to fraud, mismatched expectations and hidden costs. 
 The complete prototype development lifecycle includes all aspects from primary research to product decisions based on user insights through five recorded prototype stages until the delivery of 13 React TypeScript components which enabled users to complete their Onboarding to Payment process.
 
